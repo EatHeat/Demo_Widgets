@@ -9,4 +9,4 @@ Widgets can handle click events too.
 
 Licensed under WTFPL.
 
-Resd more about WTFPL here http://www.wtfpl.net/about/ .
+Read more about WTFPL here http://www.wtfpl.net/about/ .
