@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="workspace_cell_width">80dip</dimen>
+    <dimen name="workspace_cell_height">100dip</dimen>
+    <dimen name="workspace_width_gap">0dp</dimen>
+    <dimen name="workspace_height_gap">0dp</dimen>
+
+</resources>
